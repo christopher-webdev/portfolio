@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-   base: './dist/index.html',
+   base: '/dist/index.html',
  
 });
